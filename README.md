@@ -17,5 +17,6 @@ I am a dedicated and self-motivated engineer and full-stack developer. My expert
 ## Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/indmillr)
+- Send me a [Personal Message](https://indmillr.vercel.app/#Contact)
 
 Thanks for stopping by! Let's connect!
