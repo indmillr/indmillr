@@ -14,9 +14,9 @@ I am a dedicated and self-motivated engineer and full-stack developer. My expert
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs)](https://skillicons.dev)
 
-## Get in Touch
+## Get in Touch:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/indmillr)
 - Send me a [Personal Message](https://indmillr.vercel.app/#contact)
 
-Thanks for stopping by! Let's connect!
+### Thanks for stopping by! Let's connect!
