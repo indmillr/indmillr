@@ -12,7 +12,7 @@ I am a dedicated software engineer and full-stack developer with expertise in fr
 - ✍️ Most of my time lately has been spent in Next.js with JavaScript and TypeScript.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
