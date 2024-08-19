@@ -12,7 +12,7 @@ I am a dedicated and self-motivated engineer and full-stack developer. My expert
 - ✍️ Most of my time lately has been spent in Next.js with JavaScript and TypeScript.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
