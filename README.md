@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ian Miller! 👋
 
-<!--
-**indmillr/indmillr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated software engineer and full-stack developer with expertise in frontend development. I specialize in creating sleek, responsive UI and robust end-to-end design.
 
-Here are some ideas to get you started:
+![indmillr's Stats](https://github-readme-stats.vercel.app/api?username=indmillr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I enjoy solving complex problems with clean, efficient code.
+- 📝 My current focus is on developing scalable, performant, and user-friendly web applications.
+- 🌐 I have a knack for design and the ability to obsess over every pixel.
+- ✍️ Most of my time lately has been spent in Next.js with JavaScript and TypeScript.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/indmillr)
+
+Thanks for stopping by! Let's connect! 🚀
