@@ -2,7 +2,7 @@
 
 I am a dedicated and self-motivated engineer and full-stack developer. My expertise is in front-end development, specializing in creating sleek, responsive UI and seamless UX.
 
-![indmillr's Stats](https://github-readme-stats.vercel.app/api?username=indmillr&theme=ayu_mirage&show_icons=true&hide_border=true&count_private=true)
+![indmillr's Stats](https://github-readme-stats.vercel.app/api?username=indmillr&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
