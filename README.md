@@ -11,7 +11,7 @@ I am a dedicated software engineer and full-stack developer with expertise in fr
 - 🌐 I have a knack for design and the ability to obsess over every pixel.
 - ✍️ Most of my time lately has been spent in Next.js with JavaScript and TypeScript.
 
-## Tech Stack
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4)](https://skillicons.dev)
 
 ## 📬 Get in Touch
