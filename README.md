@@ -8,7 +8,7 @@ I am a dedicated and self-motivated engineer and full-stack developer. My expert
 
 - I enjoy solving complex problems with clean, efficient code.
 - My current focus is on developing web applications in Next.js with JavaScript and TypeScript.
-- I have a knack for design and the ability to obsess over every pixel.
+- I have a knack for design and the ability to enjoy obsessing over every pixel.
 - Check out my [Personal Portfolio](https://bit.ly/ianmillerdev) to learn more!
 
 ## Skills
