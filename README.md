@@ -1,4 +1,4 @@
-# Hi, I'm Ian.
+# Hi. I'm Ian.
 
 I am a full-stack developer and engineer.
 
