@@ -6,7 +6,7 @@ My expertise is in front-end development, specializing in creating sleek, respon
 
 ## About Me
 
-- I enjoy solving complex problems code.
+- I enjoy solving complex problems with code.
 - I have spent a lot of time developing web applications in Next.js with JavaScript and TypeScript.
 - My current focus is on getting familiar with Go and adding it to my stack.
 - I have a knack for design and the ability to enjoy obsessing over every pixel.
