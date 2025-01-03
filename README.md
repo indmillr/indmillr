@@ -1,6 +1,8 @@
 # Hi, I'm Ian.
 
-I am a full-stack developer and engineer. My expertise is in front-end development, specializing in creating sleek, responsive UI and highly performant web applications.
+I am a full-stack developer and engineer.
+
+My expertise is in front-end development, specializing in creating sleek, responsive UI and highly performant web applications.
 
 ## About Me
 
